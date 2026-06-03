@@ -1,0 +1,94 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "name": "tarun",
+      "age": 28,
+      "gender": "Male",
+      "email": "tarun@gmail.com",
+      "phone": "+918871563256",
+      "city": "TULSI NAGAR NAMRATA GARADAN KE SAMNE INDOR 452010"
+    },
+    {
+      "id": "2",
+      "name": "kiran",
+      "age": 26,
+      "gender": "Female",
+      "email": "kiran@gmail.com",
+      "phone": "+918871623256",
+      "city": "vijay nagar, indore"
+    },
+    {
+      "id": "4",
+      "name": "shashank",
+      "age": "26",
+      "gender": "Male",
+      "email": "shashank5@gmail.com",
+      "phone": "8251088597",
+      "city": "Indore"
+    },
+    {
+      "id": "5",
+      "name": "kanishka",
+      "age": "20",
+      "gender": "Female",
+      "email": "kanishka123@gmail.com",
+      "phone": "9645251448",
+      "city": "vijay nagar, indore"
+    },
+    {
+      "id": "6",
+      "name": "tanmay",
+      "age": "15",
+      "gender": "Male",
+      "email": "tanmay27@gmail.com",
+      "phone": "8251088597",
+      "city": "gori nagar"
+    },
+    {
+      "id": "93b8",
+      "name": "avika",
+      "age": "25",
+      "gender": "Female",
+      "email": "avi19@gmail.com",
+      "phone": "+918871623275",
+      "city": "nanda nagar"
+    },
+    {
+      "id": "d2f3",
+      "name": "mahi",
+      "age": "22",
+      "gender": "Female",
+      "email": "mahi1999@gmail.com",
+      "phone": "+918871623256",
+      "city": "indore"
+    },
+    {
+      "id": "bc2d",
+      "name": "keshav",
+      "age": "19",
+      "gender": "Male",
+      "email": "keshav125@gmail.com",
+      "phone": "9645251478",
+      "city": "vijay nagar, indore"
+    },
+    {
+      "id": "d3de",
+      "name": "tanisha",
+      "age": "23",
+      "gender": "Female",
+      "email": "tanisha23@gmail.com",
+      "phone": "+918871623275",
+      "city": "indore"
+    },
+    {
+      "id": "2527",
+      "name": "ranu",
+      "age": "18",
+      "gender": "Female",
+      "email": "rani218@gmail.com",
+      "phone": "+918871623275",
+      "city": "Indore"
+    }
+  ]
+}
